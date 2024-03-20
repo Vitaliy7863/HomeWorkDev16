@@ -1,4 +1,4 @@
-package com.example.homeworkdev16.dao;
+package com.example.homeworkdev16.service;
 
 import com.example.homeworkdev16.model.Note;
 import com.example.homeworkdev16.repository.NoteRepository;

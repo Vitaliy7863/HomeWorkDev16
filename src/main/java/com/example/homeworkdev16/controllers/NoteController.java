@@ -1,6 +1,6 @@
 package com.example.homeworkdev16.controllers;
 
-import com.example.homeworkdev16.dao.NoteService;
+import com.example.homeworkdev16.service.NoteService;
 import com.example.homeworkdev16.model.Note;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
